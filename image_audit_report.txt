@@ -1,0 +1,1249 @@
+IMAGE AUDIT REPORT
+==================
+
+File: src/components/home/Featureddestinations.jsx
+--------------------------------------------------
+  Reference: /kerala/kerala-hero-banner-backwaters.avif
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /Kashmir/kashmir-gulmarg-ski-resort.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Ladakh/ladakh-pangong-lake.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Maldives/mal-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Japan/japan-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Turkey/turkey-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+File: src/components/home/Packages.jsx
+--------------------------------------
+  Reference: /kerala/kerala-hero-banner-backwaters.avif
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /goa/goa-beach-shack-sunset.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /Andaman/sea.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /golden_triangle/golden-triangle-taj-mahal-agra.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains underscores)
+
+  Reference: /Himachal Pradesh/himachal-shimla-mall-road.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /Kashmir/kashmir-gulmarg-ski-resort.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Rajasthan/rajasthan-hawa-mahal-jaipur.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Sikkim/sikkim-gangtok-city-view.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Assam/assam-kaziranga-one-horn-rhino.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Gujarat/gujarat-rann-of-kutch.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Ladakh/ladakh-pangong-lake.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Lakshadweep/lakshadweep-agatti-island.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Odisha/odisha-sun-temple-konark.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Meghalaya/meghalaya-dawki-river.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Arunachal Pradesh/arunachal-tawang-monastery.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /malaysia/malaysia-kuala-lumpur-petronas.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /singapore/singapore-marina-bay-sands.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /Thailand/thailand-bangkok-grand-palace.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /srilanka/sri-lanka-sigiriya-rock-fortress.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /Dubai/dubai-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Maldives/mal-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /nepal/nepal-kathmandu-durbar-square.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /Bhutan/bhu-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Philippines/php-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Vietnam/vie-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Cambodia/cambodia-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Japan/japan-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /China/greatwall.webp
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Kenya/kenya-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Brunei/bru-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /HongKongmacau/hong-kong-disneyland.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Russia/russia-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Turkey/turkey-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Egypt/egypt-2.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+File: src/components/pages/Andaman.jsx
+--------------------------------------
+  Reference: /Andaman/sunset.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Andaman/sea.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Andaman/ross.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Andaman/bg4.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Andaman/bg1.avif
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Andaman/baratang.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Andaman/villa.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Andaman/beach.avif
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Andaman/cove.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Andaman/eve.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Andaman/reef.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+File: src/components/pages/ArunachalPradesh.jsx
+-----------------------------------------------
+  Reference: /Arunachal Pradesh/hero.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /Arunachal Pradesh/1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /Arunachal Pradesh/2.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /Arunachal Pradesh/3.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /Arunachal Pradesh/4.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /Arunachal Pradesh/5.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /Arunachal Pradesh/6.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+File: src/components/pages/Assam.jsx
+------------------------------------
+  Reference: /Assam/assam-kaziranga-one-horn-rhino.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Assam/assam-kamakhya-temple.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Assam/assam-tea-garden.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Assam/assam-brahmaputra-river.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Assam/assam-bihu-dance.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Assam/assam-silpukhuri-lake.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+File: src/components/pages/Bali.jsx
+-----------------------------------
+  Reference: /Bali/bali-ubud-temple.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Bali/bali-tanah-lot-sunset.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Bali/bali-seminyak-beach.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Bali/bali-rice-terrace.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Bali/bali-ulawatu-temple.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Bali/bali-nusa-penida-island.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+File: src/components/pages/Bhutan.jsx
+-------------------------------------
+  Reference: /Bhutan/bhu-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Bhutan/bhu-2.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Bhutan/bhu-3.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Bhutan/bhu-4.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Bhutan/bhu-5.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Bhutan/bhu-6.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+File: src/components/pages/Brunei.jsx
+-------------------------------------
+  Reference: /Brunei/bru-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Brunei/bru-2.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Brunei/bru-3.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Brunei/bru-4.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Brunei/bru-5.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Brunei/bru-6.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+File: src/components/pages/Cambodia.jsx
+---------------------------------------
+  Reference: /Cambodia/cambodia-2.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Cambodia/cambodia-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Cambodia/cambodia-3.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Cambodia/cambodia-4.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Cambodia/cambodia-5.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Cambodia/cambodia-6.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+File: src/components/pages/China.jsx
+------------------------------------
+  Reference: /China/view.webp
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /China/greatwall.webp
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /China/shanghai.webp
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /China/beijing.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /China/chengdu.webp
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /China/guilin.webp
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+File: src/components/pages/Dubai.jsx
+------------------------------------
+  Reference: /Dubai/dubai-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Dubai/dubai-2.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Dubai/dubai-3.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Dubai/dubai-4.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Dubai/dubai-5.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Dubai/dubai-6.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+File: src/components/pages/Egypt.jsx
+------------------------------------
+  Reference: /Egypt/egypt-2.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Egypt/egypt-6.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Egypt/egypt-4.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Egypt/egypt-3.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Egypt/egypt-5.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+File: src/components/pages/Goa.jsx
+----------------------------------
+  Reference: /goa/goa-beach-shack-sunset.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /goa/goa-baga-beach-water-sports.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /goa/goa-cruise-party-boat.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /goa/goa-south-goa-palolem-beach.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /goa/goa-old-goa-church.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /goa/goa-fort-aguda-sunset.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+File: src/components/pages/GoldenTriangle.jsx
+---------------------------------------------
+  Reference: /golden_triangle/golden-triangle-taj-mahal-agra.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains underscores)
+
+  Reference: /golden_triangle/golden-triangle-qutub-minar-delhi.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains underscores)
+
+  Reference: /golden_triangle/golden-triangle-amber-fort-jaipur.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains underscores)
+
+  Reference: /golden_triangle/golden-triangle-city-palace-udaipur.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains underscores)
+
+  Reference: /golden_triangle/golden-triangle-india-gate-delhi.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains underscores)
+
+  Reference: /golden_triangle/golden-triangle-hawa-mahal-jaipur.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains underscores)
+
+  Reference: /golden_triangle/golden-triangle-taj-mahal-sunset-view.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains underscores)
+
+File: src/components/pages/Gujarat.jsx
+--------------------------------------
+  Reference: /Gujarat/gujarat-gir-forest-lion.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Gujarat/gujarat-rann-of-kutch.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Gujarat/gujarat-sabarmati-ashram.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Gujarat/gujarat-adorable-sunset.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Gujarat/gujarat-modhera-temple.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Gujarat/gujarat-dwarkadhish-temple.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+File: src/components/pages/HimachalPradesh.jsx
+----------------------------------------------
+  Reference: /Himachal Pradesh/himachal-shimla-mall-road.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /Himachal Pradesh/rohotang.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /Himachal Pradesh/manali.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /Himachal Pradesh/himachal-dharamshala-temple.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /Himachal Pradesh/solong.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /Himachal Pradesh/himachal-manali-solang-valley.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /Himachal Pradesh/himachal-kullu-valley.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /Himachal Pradesh/hidimba.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+File: src/components/pages/HongKongMacau.jsx
+--------------------------------------------
+  Reference: /HongKongmacau/hong-kong-peak-tram.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /HongKongmacau/hong-kong-victoria-harbor.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /HongKongmacau/hong-kong-disneyland.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /HongKongmacau/hong-kong-night-city-view.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /HongKongmacau/macau-senado-square.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /HongKongmacau/macau-ruins-of-st-pauls.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+File: src/components/pages/Japan.jsx
+------------------------------------
+  Reference: /Japan/japan-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Japan/japan-2.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Japan/japan-3.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Japan/japan-4.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Japan/japan-5.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Japan/japan-6.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+File: src/components/pages/Kashmir.jsx
+--------------------------------------
+  Reference: /Kashmir/kashmir-gulmarg-ski-resort.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Kashmir/kashmir-dal-lake-srinagar.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Kashmir/kashmir-pahalgam-valley.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Kashmir/kashmir-houseboat-cruise.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Kashmir/kashmir-mughal-garden.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Kashmir/kashmir-shikara-boat.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+File: src/components/pages/Kenya.jsx
+------------------------------------
+  Reference: /Kenya/kenya-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Kenya/kenya-2.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Kenya/kenya-3.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Kenya/kenya-4.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Kenya/kenya-5.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Kenya/kenya-6.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+File: src/components/pages/Kerala.jsx
+-------------------------------------
+  Reference: /kerala/kerala-hero-banner-backwaters.avif
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /kerala/kerala-tropical-beach-sunset.avif
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /kerala/kerala-houseboat-kerala-backwaters.avif
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /kerala/kerala-alleppey-backwaters-houseboat.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /kerala/kerala-kovalam-beach-resort.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /kerala/kerala-fort-kochi-historical.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /kerala/kerala-backwater-canal-scenic.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /kerala/kerala-backwaters-twilight-serenity.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /kerala/kerala-backwater-cruise-tour.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+File: src/components/pages/Ladakh.jsx
+-------------------------------------
+  Reference: /Ladakh/ladakh-pangong-lake.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Ladakh/ladakh-nubra-valley.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Ladakh/ladakh-leh-palace.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Ladakh/ladakh-khardung-la-pass.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Ladakh/ladakh-thiksey-monastery.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Ladakh/ladakh-tso-moriri-lake.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+File: src/components/pages/Lakshadweep.jsx
+------------------------------------------
+  Reference: /Lakshadweep/lakshadweep-agatti-island.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Lakshadweep/lakshadweep-bangaram-island.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Lakshadweep/lakshadweep-scuba-diving.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Lakshadweep/lakshadweep-kalpeni-beach.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Lakshadweep/lakshadweep-marine-life.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Lakshadweep/lakshadweep-tropical-paradise.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+File: src/components/pages/Malaysia.jsx
+---------------------------------------
+  Reference: /malaysia/malaysia-kuala-lumpur-petronas.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /malaysia/malaysia-kuala-lumpur-city.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /malaysia/malaysia-petronas-twin-towers.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /malaysia/malaysia-langkawi-beach-resort.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /malaysia/malaysia-langkawi-sky-bridge.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /malaysia/malaysia-georgetown-street-art.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+File: src/components/pages/Maldives.jsx
+---------------------------------------
+  Reference: /Maldives/mal-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Maldives/mal-2.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Maldives/mal-3.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Maldives/mal-4.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Maldives/mal-5.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Maldives/mal-6.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+File: src/components/pages/Meghalaya.jsx
+----------------------------------------
+  Reference: /Meghalaya/meghalaya-living-root-bridge.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Meghalaya/meghalaya-shillong-peak.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Meghalaya/meghalaya-mawlynnong-village.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Meghalaya/meghalaya-dawki-river.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Meghalaya/6.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Meghalaya/meghalaya-cherrapunji-waterfall.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+File: src/components/pages/Nepal.jsx
+------------------------------------
+  Reference: /nepal/nepal-himalayas-mountain-view.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /nepal/nepal-kathmandu-durbar-square.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /nepal/nepal-pokhara-lake-view.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /nepal/nepal-pashupatinath-temple.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /nepal/nepal-bhaktapur-durbar-square.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /nepal/nepal-sarangkot-sunrise-view.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+File: src/components/pages/Odisha.jsx
+-------------------------------------
+  Reference: /Odisha/odisha-lingaraja-temple.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Odisha/odisha-jagannath-temple.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Odisha/odisha-chilika-lake.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Odisha/odisha-tribal-culture.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Odisha/odisha-sun-temple-konark.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Odisha/odisha-puri-beach.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+File: src/components/pages/Packages.jsx
+---------------------------------------
+  Reference: /kerala/kerala-hero-banner-backwaters.avif
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /goa/goa-beach-shack-sunset.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /Andaman/sea.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /golden_triangle/golden-triangle-taj-mahal-agra.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains underscores)
+
+  Reference: /Himachal Pradesh/himachal-shimla-mall-road.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /Kashmir/kashmir-gulmarg-ski-resort.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Rajasthan/rajasthan-amber-fort-jaipur.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Sikkim/sikkim-gurudongmar-lake.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Assam/assam-kaziranga-one-horn-rhino.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Gujarat/gujarat-gir-forest-lion.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Ladakh/ladakh-pangong-lake.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Lakshadweep/lakshadweep-agatti-island.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Odisha/odisha-jagannath-temple.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Meghalaya/meghalaya-living-root-bridge.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Arunachal Pradesh/arunachal-tawang-monastery.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains spaces, contains uppercase letters)
+
+  Reference: /malaysia/malaysia-kuala-lumpur-petronas.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /singapore/singapore-marina-bay-sands.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /srilanka/sri-lanka-sigiriya-rock-fortress.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /Dubai/dubai-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Maldives/mal-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /nepal/nepal-kathmandu-durbar-square.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /Bhutan/bhu-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Philippines/php-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Vietnam/vie-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Cambodia/cambodia-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Japan/japan-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /China/beijing.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Kenya/kenya-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Brunei/bru-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /HongKongmacau/hong-kong-victoria-harbor.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Russia/russia-2.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Turkey/turkey-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Egypt/egypt-2.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+File: src/components/pages/Philippines.jsx
+------------------------------------------
+  Reference: /Philippines/php-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Philippines/php-2.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Philippines/php-3.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Philippines/php-4.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Philippines/php-5.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Philippines/php-6.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+File: src/components/pages/Rajasthan.jsx
+----------------------------------------
+  Reference: /Rajasthan/rajasthan-udaipur-lake-palace.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Rajasthan/rajasthan-amber-fort-jaipur.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Rajasthan/rajasthan-hawa-mahal-jaipur.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Rajasthan/rajasthan-jaisalmer-fort.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+File: src/components/pages/Russia.jsx
+-------------------------------------
+  Reference: /Russia/russia-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Russia/russia-2.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Russia/russia-3.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Russia/russia-4.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Russia/russia-5.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Russia/russia-6.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+File: src/components/pages/Sikkim.jsx
+-------------------------------------
+  Reference: /Sikkim/sikkim-yumthang-valley.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Sikkim/sikkim-tsomgo-lake.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Sikkim/sikkim-nathu-la-pass.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Sikkim/sikkim-rumtek-monastery.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Sikkim/sikkim-gangtok-city-view.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Sikkim/sikkim-pelling-tourist-spot.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+File: src/components/pages/Singapore.jsx
+----------------------------------------
+  Reference: /singapore/singapore-marina-bay-singapore.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /singapore/singapore-marina-bay-sands.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /singapore/singapore-gardens-by-bay.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /singapore/singapore-supertree-garden-view.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /singapore/singapore-sentosa-island-resort.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /singapore/singapore-singapore-flyer-night-view.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+File: src/components/pages/SriLanka.jsx
+---------------------------------------
+  Reference: /srilanka/sri-lanka-peaceful-tropical-view.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /srilanka/sri-lanka-bentota-beach.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /srilanka/sri-lanka-sigiriya-rock-fortress.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /srilanka/sri-lanka-mirissa-whale-watching.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /srilanka/sri-lanka-scenic-train-ride.webp
+    Status:     OK
+    SEO Status: SEO Friendly
+
+  Reference: /srilanka/sri-lanka-galle-fort.jpg
+    Status:     OK
+    SEO Status: SEO Friendly
+
+File: src/components/pages/Thailand.jsx
+---------------------------------------
+  Reference: /Thailand/thailand-bangkok-grand-palace.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Thailand/thailand-phuket-patong-beach.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Thailand/thailand-chiang-mai-temple.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Thailand/thailand-phi-phi-island.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Thailand/thailand-floating-market.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+  Reference: /Thailand/thailand-wat-arun-temple.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters)
+
+File: src/components/pages/Turkey.jsx
+-------------------------------------
+  Reference: /Turkey/turkey-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Turkey/turkey-2.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Turkey/turkey-3.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Turkey/turkey-4.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Turkey/turkey-5.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Turkey/turkey-6.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+File: src/components/pages/Vietnam.jsx
+--------------------------------------
+  Reference: /Vietnam/vie-1.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Vietnam/vie-2.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Vietnam/vie-3.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Vietnam/vie-4.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+  Reference: /Vietnam/vie-6.jpg
+    Status:     OK
+    SEO Status: NON-SEO (contains uppercase letters, generic name with number)
+
+SUMMARY
+=======
+Total files checked: 38
+Total unique references checked: 291
+Total broken/missing/mismatched references: 0
+Total non-SEO references: 239

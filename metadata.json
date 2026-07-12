@@ -1,0 +1,6 @@
+{
+  "name": "Aruvi Tours",
+  "description": "Aruvi Tours travel homepage with curated packages, destination inspiration, and custom itinerary planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Aruvi"]
+}

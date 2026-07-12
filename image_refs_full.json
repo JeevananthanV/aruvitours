@@ -1,0 +1,1322 @@
+[
+  {
+    "file": "src/components/home/Featureddestinations.jsx",
+    "src": "/kerala/kerala-hero-banner-backwaters.avif",
+    "alt": "Backwater Bliss",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Featureddestinations.jsx",
+    "src": "/Kashmir/kashmir-gulmarg-ski-resort.jpg",
+    "alt": "Kashmir Mountains",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Featureddestinations.jsx",
+    "src": "/Ladakh/ladakh-pangong-lake.jpg",
+    "alt": "Ladakh mountain landscape",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Featureddestinations.jsx",
+    "src": "/Maldives/mal-1.jpg",
+    "alt": "Maldives Overwater Villas",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Featureddestinations.jsx",
+    "src": "/Japan/japan-1.jpg",
+    "alt": "Cherry Blossoms",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Featureddestinations.jsx",
+    "src": "/Turkey/turkey-1.jpg",
+    "alt": "Cappadocia Balloons",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/goa/goa-beach-shack-sunset.jpg",
+    "alt": "Goa beach shoreline",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Andaman/sea.jpg",
+    "alt": "",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/golden_triangle/golden-triangle-taj-mahal-agra.jpg",
+    "alt": "Taj Mahal",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Himachal Pradesh/himachal-shimla-mall-road.jpg",
+    "alt": "Shimla Hills",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Rajasthan/rajasthan-hawa-mahal-jaipur.jpg",
+    "alt": "Mehrangarh Fort, Jodhpur",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Sikkim/sikkim-gangtok-city-view.jpg",
+    "alt": "Kanchenjunga sunrise",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Assam/assam-kaziranga-one-horn-rhino.jpg",
+    "alt": "Assam tea garden",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Gujarat/gujarat-rann-of-kutch.jpg",
+    "alt": "Gujarat stepwell",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Lakshadweep/lakshadweep-agatti-island.jpg",
+    "alt": "Lakshadweep lagoon landscape",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Odisha/odisha-sun-temple-konark.jpg",
+    "alt": "Raghurajpur crafts",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Meghalaya/meghalaya-dawki-river.jpg",
+    "alt": "Meghalaya valley",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Arunachal Pradesh/arunachal-tawang-monastery.jpg",
+    "alt": "",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/malaysia/malaysia-kuala-lumpur-petronas.jpg",
+    "alt": "Lakshadweep lagoon landscape",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/singapore/singapore-marina-bay-sands.jpg",
+    "alt": "S.E.A Aquarium",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Thailand/thailand-bangkok-grand-palace.jpg",
+    "alt": "Thailand",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/srilanka/sri-lanka-sigiriya-rock-fortress.webp",
+    "alt": "Sigiriya Rock Fortress",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Dubai/dubai-1.jpg",
+    "alt": "Burj Khalifa Skyline",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/nepal/nepal-kathmandu-durbar-square.jpg",
+    "alt": "Kathmandu City",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Bhutan/bhu-1.jpg",
+    "alt": "Paro Valley",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Philippines/php-1.jpg",
+    "alt": "Boracay Beach",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Vietnam/vie-1.jpg",
+    "alt": "Ha Long Bay Vietnam",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Cambodia/cambodia-1.jpg",
+    "alt": "Angkor Wat Sunrise",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/China/greatwall.webp",
+    "alt": "Great Wall of China",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Kenya/kenya-1.jpg",
+    "alt": "Maasai Mara Safari",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Brunei/bru-1.jpg",
+    "alt": "Sultan Omar Ali Saifuddien Mosque",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/HongKongmacau/hong-kong-disneyland.jpg",
+    "alt": "Hong Kong Disneyland",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Russia/russia-1.jpg",
+    "alt": "Russia",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/home/Packages.jsx",
+    "src": "/Egypt/egypt-2.jpg",
+    "alt": "Egyptian Pyramids",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/pages/Andaman.jsx",
+    "src": "/Andaman/bg1.avif",
+    "alt": "Backwater Bliss",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Andaman.jsx",
+    "src": "/Andaman/sunset.jpg",
+    "alt": "",
+    "type": "bg_url"
+  },
+  {
+    "file": "src/components/pages/Andaman.jsx",
+    "src": "/Andaman/ross.jpg",
+    "alt": "",
+    "type": "bg_url"
+  },
+  {
+    "file": "src/components/pages/Andaman.jsx",
+    "src": "/Andaman/bg4.jpg",
+    "alt": "",
+    "type": "bg_url"
+  },
+  {
+    "file": "src/components/pages/Andaman.jsx",
+    "src": "/Andaman/baratang.jpg",
+    "alt": "",
+    "type": "bg_url"
+  },
+  {
+    "file": "src/components/pages/Andaman.jsx",
+    "src": "/Andaman/villa.jpg",
+    "alt": "",
+    "type": "bg_url"
+  },
+  {
+    "file": "src/components/pages/Andaman.jsx",
+    "src": "/Andaman/beach.avif",
+    "alt": "",
+    "type": "bg_url"
+  },
+  {
+    "file": "src/components/pages/Andaman.jsx",
+    "src": "/Andaman/cove.jpg",
+    "alt": "",
+    "type": "bg_url"
+  },
+  {
+    "file": "src/components/pages/Andaman.jsx",
+    "src": "/Andaman/eve.jpg",
+    "alt": "",
+    "type": "bg_url"
+  },
+  {
+    "file": "src/components/pages/Andaman.jsx",
+    "src": "/Andaman/reef.jpg",
+    "alt": "",
+    "type": "bg_url"
+  },
+  {
+    "file": "src/components/pages/ArunachalPradesh.jsx",
+    "src": "/Arunachal Pradesh/hero.jpg",
+    "alt": "Arunachal Pradesh mountains",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/ArunachalPradesh.jsx",
+    "src": "/Arunachal Pradesh/1.jpg",
+    "alt": "Arunachal valley",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/ArunachalPradesh.jsx",
+    "src": "/Arunachal Pradesh/2.jpg",
+    "alt": "Sela Pass",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/ArunachalPradesh.jsx",
+    "src": "/Arunachal Pradesh/3.jpg",
+    "alt": "Mountain river",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/ArunachalPradesh.jsx",
+    "src": "/Arunachal Pradesh/4.jpg",
+    "alt": "Tawang monastery",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/ArunachalPradesh.jsx",
+    "src": "/Arunachal Pradesh/5.jpg",
+    "alt": "Ziro valley",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/ArunachalPradesh.jsx",
+    "src": "/Arunachal Pradesh/6.jpg",
+    "alt": "Mountain sunrise",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Assam.jsx",
+    "src": "/Assam/assam-kamakhya-temple.jpg",
+    "alt": "Assam tea garden",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Assam.jsx",
+    "src": "/Assam/assam-tea-garden.jpg",
+    "alt": "Kaziranga safari",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Assam.jsx",
+    "src": "/Assam/assam-brahmaputra-river.jpg",
+    "alt": "Brahmaputra river",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Assam.jsx",
+    "src": "/Assam/assam-bihu-dance.jpg",
+    "alt": "Majuli island",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Assam.jsx",
+    "src": "/Assam/assam-silpukhuri-lake.jpg",
+    "alt": "Assam tea estate",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Bali.jsx",
+    "src": "/Bali/bali-ubud-temple.jpg",
+    "alt": "Bali",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Bali.jsx",
+    "src": "/Bali/bali-tanah-lot-sunset.jpg",
+    "alt": "Tanah Lot Sunset",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Bali.jsx",
+    "src": "/Bali/bali-seminyak-beach.jpg",
+    "alt": "Seminyak Beach",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Bali.jsx",
+    "src": "/Bali/bali-rice-terrace.jpg",
+    "alt": "Rice Terraces",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Bali.jsx",
+    "src": "/Bali/bali-ulawatu-temple.jpg",
+    "alt": "Uluwatu Temple",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Bali.jsx",
+    "src": "/Bali/bali-nusa-penida-island.jpg",
+    "alt": "Nusa Penida",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Bhutan.jsx",
+    "src": "/Bhutan/bhu-2.jpg",
+    "alt": "Tiger's Nest",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Bhutan.jsx",
+    "src": "/Bhutan/bhu-3.jpg",
+    "alt": "Himalayan Mountains",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Bhutan.jsx",
+    "src": "/Bhutan/bhu-4.jpg",
+    "alt": "Monastery Prayer Flags",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Bhutan.jsx",
+    "src": "/Bhutan/bhu-5.jpg",
+    "alt": "Bhutan Valley",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Bhutan.jsx",
+    "src": "/Bhutan/bhu-6.jpg",
+    "alt": "Sunset Himalayas",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Brunei.jsx",
+    "src": "/Brunei/bru-2.jpg",
+    "alt": "Kampong Ayer Water Village",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Brunei.jsx",
+    "src": "/Brunei/bru-3.jpg",
+    "alt": "Ulu Temburong Rainforest",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Brunei.jsx",
+    "src": "/Brunei/bru-4.jpg",
+    "alt": "Brunei River Sunset",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Brunei.jsx",
+    "src": "/Brunei/bru-5.jpg",
+    "alt": "Brunei Local Cuisine",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Brunei.jsx",
+    "src": "/Brunei/bru-6.jpg",
+    "alt": "Tropical Forest Canopy",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Cambodia.jsx",
+    "src": "/Cambodia/cambodia-2.jpg",
+    "alt": "Cambodia",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Cambodia.jsx",
+    "src": "/Cambodia/cambodia-3.jpg",
+    "alt": "Angkor Thom",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Cambodia.jsx",
+    "src": "/Cambodia/cambodia-4.jpg",
+    "alt": "Floating Village",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Cambodia.jsx",
+    "src": "/Cambodia/cambodia-5.jpg",
+    "alt": "Apsara Dance",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Cambodia.jsx",
+    "src": "/Cambodia/cambodia-6.jpg",
+    "alt": "Cambodian Markets",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/China.jsx",
+    "src": "/China/view.webp",
+    "alt": "China",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/China.jsx",
+    "src": "/China/shanghai.webp",
+    "alt": "Shanghai Skyline",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/China.jsx",
+    "src": "/China/beijing.jpg",
+    "alt": "Beijing City",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/China.jsx",
+    "src": "/China/chengdu.webp",
+    "alt": "Chengdu Pandas",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/China.jsx",
+    "src": "/China/guilin.webp",
+    "alt": "Guilin River",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Dubai.jsx",
+    "src": "/Dubai/dubai-2.jpg",
+    "alt": "Dubai Marina Sunset",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Dubai.jsx",
+    "src": "/Dubai/dubai-3.jpg",
+    "alt": "Luxury Desert Safari",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Dubai.jsx",
+    "src": "/Dubai/dubai-4.jpg",
+    "alt": "Luxury Yacht Cruise",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Dubai.jsx",
+    "src": "/Dubai/dubai-5.jpg",
+    "alt": "Palm Jumeirah View",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Dubai.jsx",
+    "src": "/Dubai/dubai-6.jpg",
+    "alt": "Dubai Fountain Show",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Egypt.jsx",
+    "src": "/Egypt/egypt-6.jpg",
+    "alt": "Sunset",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Egypt.jsx",
+    "src": "/Egypt/egypt-4.jpg",
+    "alt": "Pool Villa",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Egypt.jsx",
+    "src": "/Egypt/egypt-3.jpg",
+    "alt": "Spice Plantation",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Egypt.jsx",
+    "src": "/Egypt/egypt-5.jpg",
+    "alt": "Church",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Goa.jsx",
+    "src": "/goa/goa-baga-beach-water-sports.jpg",
+    "alt": "Goa Beach",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Goa.jsx",
+    "src": "/goa/goa-cruise-party-boat.jpg",
+    "alt": "Sunset",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Goa.jsx",
+    "src": "/goa/goa-south-goa-palolem-beach.jpg",
+    "alt": "Pool Villa",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Goa.jsx",
+    "src": "/goa/goa-old-goa-church.jpg",
+    "alt": "Spice Plantation",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Goa.jsx",
+    "src": "/goa/goa-fort-aguda-sunset.jpg",
+    "alt": "Church",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/GoldenTriangle.jsx",
+    "src": "/golden_triangle/golden-triangle-qutub-minar-delhi.jpg",
+    "alt": "Qutub Minar",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/GoldenTriangle.jsx",
+    "src": "/golden_triangle/golden-triangle-amber-fort-jaipur.jpg",
+    "alt": "Amber Fort",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/GoldenTriangle.jsx",
+    "src": "/golden_triangle/golden-triangle-city-palace-udaipur.jpg",
+    "alt": "City Palace",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/GoldenTriangle.jsx",
+    "src": "/golden_triangle/golden-triangle-india-gate-delhi.jpg",
+    "alt": "Historic Gate",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/GoldenTriangle.jsx",
+    "src": "/golden_triangle/golden-triangle-hawa-mahal-jaipur.jpg",
+    "alt": "Hawa Mahal",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/GoldenTriangle.jsx",
+    "src": "/golden_triangle/golden-triangle-taj-mahal-sunset-view.jpg",
+    "alt": "Taj Mahal at sunset in Agra",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Gujarat.jsx",
+    "src": "/Gujarat/gujarat-gir-forest-lion.jpg",
+    "alt": "Gujarat heritage landscape",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Gujarat.jsx",
+    "src": "/Gujarat/gujarat-sabarmati-ashram.jpg",
+    "alt": "Gir safari",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Gujarat.jsx",
+    "src": "/Gujarat/gujarat-adorable-sunset.jpg",
+    "alt": "Sabarmati riverfront",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Gujarat.jsx",
+    "src": "/Gujarat/gujarat-modhera-temple.jpg",
+    "alt": "Rann of Kutch",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Gujarat.jsx",
+    "src": "/Gujarat/gujarat-dwarkadhish-temple.jpg",
+    "alt": "Gujarat heritage estate",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/HimachalPradesh.jsx",
+    "src": "/Himachal Pradesh/rohotang.jpg",
+    "alt": "Kufri Snow Point",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/HimachalPradesh.jsx",
+    "src": "/Himachal Pradesh/himachal-dharamshala-temple.jpg",
+    "alt": "Manali Valley",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/HimachalPradesh.jsx",
+    "src": "/Himachal Pradesh/solong.jpg",
+    "alt": "Solang Valley",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/HimachalPradesh.jsx",
+    "src": "/Himachal Pradesh/himachal-manali-solang-valley.jpg",
+    "alt": "Rohtang Pass",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/HimachalPradesh.jsx",
+    "src": "/Himachal Pradesh/hidimba.jpg",
+    "alt": "Kullu Valley",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/HimachalPradesh.jsx",
+    "src": "/Himachal Pradesh/manali.jpg",
+    "alt": "Manali hill station in Himachal Pradesh",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/HimachalPradesh.jsx",
+    "src": "/Himachal Pradesh/himachal-kullu-valley.jpg",
+    "alt": "",
+    "type": "data_src"
+  },
+  {
+    "file": "src/components/pages/HongKongMacau.jsx",
+    "src": "/HongKongmacau/hong-kong-peak-tram.jpg",
+    "alt": "Hong Kong &amp; Macau Skyline",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/HongKongMacau.jsx",
+    "src": "/HongKongmacau/hong-kong-victoria-harbor.jpg",
+    "alt": "Hong Kong Skyline",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/HongKongMacau.jsx",
+    "src": "/HongKongmacau/hong-kong-night-city-view.jpg",
+    "alt": "Star Ferry Ride",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/HongKongMacau.jsx",
+    "src": "/HongKongmacau/macau-senado-square.jpg",
+    "alt": "Macau City View",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/HongKongMacau.jsx",
+    "src": "/HongKongmacau/macau-ruins-of-st-pauls.jpg",
+    "alt": "Macau Casinos Night",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Japan.jsx",
+    "src": "/Japan/japan-2.jpg",
+    "alt": "Tokyo Night",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Japan.jsx",
+    "src": "/Japan/japan-3.jpg",
+    "alt": "Ryokan Stay",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Japan.jsx",
+    "src": "/Japan/japan-4.jpg",
+    "alt": "Japanese Cuisine",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Japan.jsx",
+    "src": "/Japan/japan-5.jpg",
+    "alt": "Mount Fuji",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Japan.jsx",
+    "src": "/Japan/japan-6.jpg",
+    "alt": "Shibuya Crossing",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Kashmir.jsx",
+    "src": "/Kashmir/kashmir-dal-lake-srinagar.jpg",
+    "alt": "Dal Lake",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Kashmir.jsx",
+    "src": "/Kashmir/kashmir-pahalgam-valley.jpg",
+    "alt": "Snow Peaks",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Kashmir.jsx",
+    "src": "/Kashmir/kashmir-houseboat-cruise.jpg",
+    "alt": "Houseboat",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Kashmir.jsx",
+    "src": "/Kashmir/kashmir-mughal-garden.jpg",
+    "alt": "Mughal Garden",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Kashmir.jsx",
+    "src": "/Kashmir/kashmir-shikara-boat.jpg",
+    "alt": "Valley Views",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Kenya.jsx",
+    "src": "/Kenya/kenya-2.jpg",
+    "alt": "Safari Sunset",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Kenya.jsx",
+    "src": "/Kenya/kenya-3.jpg",
+    "alt": "Luxury Safari Lodge",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Kenya.jsx",
+    "src": "/Kenya/kenya-4.jpg",
+    "alt": "Wildlife Safari",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Kenya.jsx",
+    "src": "/Kenya/kenya-5.jpg",
+    "alt": "Giraffe Feeding",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Kenya.jsx",
+    "src": "/Kenya/kenya-6.jpg",
+    "alt": "African Landscape",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Kerala.jsx",
+    "src": "/kerala/kerala-tropical-beach-sunset.avif",
+    "alt": "Royal Kerala",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Kerala.jsx",
+    "src": "/kerala/kerala-houseboat-kerala-backwaters.avif",
+    "alt": "Grand Kerala",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Kerala.jsx",
+    "src": "/kerala/kerala-alleppey-backwaters-houseboat.jpg",
+    "alt": "",
+    "type": "bg_url"
+  },
+  {
+    "file": "src/components/pages/Kerala.jsx",
+    "src": "/kerala/kerala-kovalam-beach-resort.jpg",
+    "alt": "",
+    "type": "bg_url"
+  },
+  {
+    "file": "src/components/pages/Kerala.jsx",
+    "src": "/kerala/kerala-fort-kochi-historical.jpg",
+    "alt": "",
+    "type": "bg_url"
+  },
+  {
+    "file": "src/components/pages/Kerala.jsx",
+    "src": "/kerala/kerala-backwater-canal-scenic.jpg",
+    "alt": "",
+    "type": "bg_url"
+  },
+  {
+    "file": "src/components/pages/Kerala.jsx",
+    "src": "/kerala/kerala-backwaters-twilight-serenity.jpg",
+    "alt": "",
+    "type": "bg_url"
+  },
+  {
+    "file": "src/components/pages/Kerala.jsx",
+    "src": "/kerala/kerala-backwater-cruise-tour.jpg",
+    "alt": "",
+    "type": "bg_url"
+  },
+  {
+    "file": "src/components/pages/Ladakh.jsx",
+    "src": "/Ladakh/ladakh-nubra-valley.jpg",
+    "alt": "Ladakh monastery",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Ladakh.jsx",
+    "src": "/Ladakh/ladakh-leh-palace.jpg",
+    "alt": "Ladakh mountain pass",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Ladakh.jsx",
+    "src": "/Ladakh/ladakh-khardung-la-pass.jpg",
+    "alt": "Pangong lake",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Ladakh.jsx",
+    "src": "/Ladakh/ladakh-thiksey-monastery.jpg",
+    "alt": "Shyok river",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Ladakh.jsx",
+    "src": "/Ladakh/ladakh-tso-moriri-lake.jpg",
+    "alt": "Leh town",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Lakshadweep.jsx",
+    "src": "/Lakshadweep/lakshadweep-bangaram-island.jpg",
+    "alt": "Lakshadweep lagoon",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Lakshadweep.jsx",
+    "src": "/Lakshadweep/lakshadweep-scuba-diving.jpg",
+    "alt": "Coral reef snorkeling",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Lakshadweep.jsx",
+    "src": "/Lakshadweep/lakshadweep-kalpeni-beach.jpg",
+    "alt": "Island beach",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Lakshadweep.jsx",
+    "src": "/Lakshadweep/lakshadweep-marine-life.jpg",
+    "alt": "Bangaram sandbank",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Lakshadweep.jsx",
+    "src": "/Lakshadweep/lakshadweep-tropical-paradise.jpg",
+    "alt": "Kavaratti lagoon",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Malaysia.jsx",
+    "src": "/malaysia/malaysia-kuala-lumpur-city.webp",
+    "alt": "Kuala Lumpur City",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Malaysia.jsx",
+    "src": "/malaysia/malaysia-petronas-twin-towers.webp",
+    "alt": "Petronas Towers",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Malaysia.jsx",
+    "src": "/malaysia/malaysia-langkawi-beach-resort.webp",
+    "alt": "Langkawi Island",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Malaysia.jsx",
+    "src": "/malaysia/malaysia-langkawi-sky-bridge.webp",
+    "alt": "Langkawi Sky Bridge",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Malaysia.jsx",
+    "src": "/malaysia/malaysia-georgetown-street-art.webp",
+    "alt": "Malaysian Street Food",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Maldives.jsx",
+    "src": "/Maldives/mal-2.jpg",
+    "alt": "Crystal Lagoon",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Maldives.jsx",
+    "src": "/Maldives/mal-3.jpg",
+    "alt": "Maldives Beach Sunset",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Maldives.jsx",
+    "src": "/Maldives/mal-4.jpg",
+    "alt": "Luxury Resort View",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Maldives.jsx",
+    "src": "/Maldives/mal-5.jpg",
+    "alt": "Snorkeling Maldives",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Maldives.jsx",
+    "src": "/Maldives/mal-6.jpg",
+    "alt": "Island Aerial View",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Meghalaya.jsx",
+    "src": "/Meghalaya/meghalaya-living-root-bridge.jpg",
+    "alt": "Meghalaya landscape",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Meghalaya.jsx",
+    "src": "/Meghalaya/meghalaya-shillong-peak.jpg",
+    "alt": "Cherrapunji cliffs",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Meghalaya.jsx",
+    "src": "/Meghalaya/meghalaya-mawlynnong-village.jpg",
+    "alt": "Khasi waterfall",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Meghalaya.jsx",
+    "src": "/Meghalaya/6.jpg",
+    "alt": "Mawlynnong village",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Meghalaya.jsx",
+    "src": "/Meghalaya/meghalaya-cherrapunji-waterfall.jpg",
+    "alt": "Meghalaya misty hills",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Nepal.jsx",
+    "src": "/nepal/nepal-himalayas-mountain-view.webp",
+    "alt": "Nepal",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Nepal.jsx",
+    "src": "/nepal/nepal-pokhara-lake-view.webp",
+    "alt": "Pokhara Lake",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Nepal.jsx",
+    "src": "/nepal/nepal-pashupatinath-temple.webp",
+    "alt": "Pashupatinath Temple",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Nepal.jsx",
+    "src": "/nepal/nepal-bhaktapur-durbar-square.webp",
+    "alt": "Bhaktapur Durbar Square",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Nepal.jsx",
+    "src": "/nepal/nepal-sarangkot-sunrise-view.jpg",
+    "alt": "Sarangkot Viewpoint",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Odisha.jsx",
+    "src": "/Odisha/odisha-lingaraja-temple.jpg",
+    "alt": "Odisha heritage landscape",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Odisha.jsx",
+    "src": "/Odisha/odisha-jagannath-temple.jpg",
+    "alt": "Konark Sun Temple",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Odisha.jsx",
+    "src": "/Odisha/odisha-chilika-lake.jpg",
+    "alt": "Chilika Lake",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Odisha.jsx",
+    "src": "/Odisha/odisha-tribal-culture.jpg",
+    "alt": "Bhubaneswar temple",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Odisha.jsx",
+    "src": "/Odisha/odisha-puri-beach.jpg",
+    "alt": "Odisha coastline",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Packages.jsx",
+    "src": "/Rajasthan/rajasthan-amber-fort-jaipur.jpg",
+    "alt": "Amber Fort, Jaipur",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/pages/Packages.jsx",
+    "src": "/Sikkim/sikkim-gurudongmar-lake.jpg",
+    "alt": "",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/pages/Packages.jsx",
+    "src": "/Russia/russia-2.jpg",
+    "alt": "St Petersburg Sunset",
+    "type": "data_image"
+  },
+  {
+    "file": "src/components/pages/Philippines.jsx",
+    "src": "/Philippines/php-2.jpg",
+    "alt": "Palawan Lagoon",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Philippines.jsx",
+    "src": "/Philippines/php-3.jpg",
+    "alt": "Beach Resort",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Philippines.jsx",
+    "src": "/Philippines/php-4.jpg",
+    "alt": "Seafood Cuisine",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Philippines.jsx",
+    "src": "/Philippines/php-5.jpg",
+    "alt": "Island Hopping",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Philippines.jsx",
+    "src": "/Philippines/php-6.jpg",
+    "alt": "Sunset Beach",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Rajasthan.jsx",
+    "src": "/Rajasthan/rajasthan-udaipur-lake-palace.jpg",
+    "alt": "Rajasthan Palaces",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Rajasthan.jsx",
+    "src": "/Rajasthan/rajasthan-jaisalmer-fort.jpg",
+    "alt": "Thar Desert, Jaisalmer",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Russia.jsx",
+    "src": "/Russia/russia-3.jpg",
+    "alt": "Winter Palace Interior",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Russia.jsx",
+    "src": "/Russia/russia-4.jpg",
+    "alt": "Russian Cuisine",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Russia.jsx",
+    "src": "/Russia/russia-5.jpg",
+    "alt": "Saint Basil Cathedral",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Russia.jsx",
+    "src": "/Russia/russia-6.jpg",
+    "alt": "Sochi Coast",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Sikkim.jsx",
+    "src": "/Sikkim/sikkim-yumthang-valley.jpg",
+    "alt": "Gangtok viewpoint",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Sikkim.jsx",
+    "src": "/Sikkim/sikkim-tsomgo-lake.jpg",
+    "alt": "Darjeeling tea garden",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Sikkim.jsx",
+    "src": "/Sikkim/sikkim-nathu-la-pass.jpg",
+    "alt": "Tsomgo Lake",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Sikkim.jsx",
+    "src": "/Sikkim/sikkim-rumtek-monastery.jpg",
+    "alt": "Rumtek Monastery",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Sikkim.jsx",
+    "src": "/Sikkim/sikkim-pelling-tourist-spot.jpg",
+    "alt": "Darjeeling toy train",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Singapore.jsx",
+    "src": "/singapore/singapore-marina-bay-singapore.webp",
+    "alt": "Singapore",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Singapore.jsx",
+    "src": "/singapore/singapore-supertree-garden-view.webp",
+    "alt": "Gardens by the Bay",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Singapore.jsx",
+    "src": "/singapore/singapore-sentosa-island-resort.webp",
+    "alt": "Sentosa Island",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Singapore.jsx",
+    "src": "/singapore/singapore-gardens-by-bay.jpg",
+    "alt": "Orchard Road",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Singapore.jsx",
+    "src": "/singapore/singapore-singapore-flyer-night-view.webp",
+    "alt": "Singapore Flyer",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/SriLanka.jsx",
+    "src": "/srilanka/sri-lanka-peaceful-tropical-view.webp",
+    "alt": "Srilanka",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/SriLanka.jsx",
+    "src": "/srilanka/sri-lanka-bentota-beach.jpg",
+    "alt": "Bentota Beach",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/SriLanka.jsx",
+    "src": "/srilanka/sri-lanka-mirissa-whale-watching.webp",
+    "alt": "Mirissa Beach",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/SriLanka.jsx",
+    "src": "/srilanka/sri-lanka-scenic-train-ride.webp",
+    "alt": "Vietnamese Cuisine",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/SriLanka.jsx",
+    "src": "/srilanka/sri-lanka-galle-fort.jpg",
+    "alt": "Yala National Park",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Thailand.jsx",
+    "src": "/Thailand/thailand-phuket-patong-beach.jpg",
+    "alt": "Phuket Beach",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Thailand.jsx",
+    "src": "/Thailand/thailand-chiang-mai-temple.jpg",
+    "alt": "Chiang Mai Temple",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Thailand.jsx",
+    "src": "/Thailand/thailand-phi-phi-island.jpg",
+    "alt": "Phi Phi Island",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Thailand.jsx",
+    "src": "/Thailand/thailand-floating-market.jpg",
+    "alt": "Floating Market",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Thailand.jsx",
+    "src": "/Thailand/thailand-wat-arun-temple.jpg",
+    "alt": "Wat Arun Temple",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Turkey.jsx",
+    "src": "/Turkey/turkey-2.jpg",
+    "alt": "Istanbul Sunset",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Turkey.jsx",
+    "src": "/Turkey/turkey-3.jpg",
+    "alt": "Cave Hotel",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Turkey.jsx",
+    "src": "/Turkey/turkey-4.jpg",
+    "alt": "Turkish Cuisine",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Turkey.jsx",
+    "src": "/Turkey/turkey-5.jpg",
+    "alt": "Blue Mosque",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Turkey.jsx",
+    "src": "/Turkey/turkey-6.jpg",
+    "alt": "Pamukkale Pools",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Vietnam.jsx",
+    "src": "/Vietnam/vie-2.jpg",
+    "alt": "Hoi An Lanterns",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Vietnam.jsx",
+    "src": "/Vietnam/vie-3.jpg",
+    "alt": "Vietnam Rice Terraces",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Vietnam.jsx",
+    "src": "/Vietnam/vie-4.jpg",
+    "alt": "Hanoi Old Quarter",
+    "type": "img_src"
+  },
+  {
+    "file": "src/components/pages/Vietnam.jsx",
+    "src": "/Vietnam/vie-6.jpg",
+    "alt": "Da Nang Beach",
+    "type": "img_src"
+  }
+]
