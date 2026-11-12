@@ -29,6 +29,7 @@ const Booking = () => {
     travelDate: '',
     numberOfGuests: 2,
     packageSlug: getInitialPackage(),
+    pickupPoint: 'Bangalore City Hub (Madiwala)',
     specialRequests: ''
   });
 
@@ -63,8 +64,10 @@ const Booking = () => {
       if (response.success) {
         setSuccessData({
           bookingId: response.data._id,
+          bookingRef: response.data.bookingRef || `AT-${response.data._id.slice(-6).toUpperCase()}`,
           fullName: formData.fullName,
           email: formData.email,
+          pickupPoint: formData.pickupPoint,
           packageName: selectedPackage?.name || formData.packageSlug,
           travelDate: formData.travelDate,
           numberOfGuests: formData.numberOfGuests,
@@ -119,7 +122,7 @@ const Booking = () => {
                 <div className="booking-details-receipt">
                   <div className="receipt-header">
                     <span className="receipt-title">Reservation Summary</span>
-                    <span className="receipt-id">ID: {successData.bookingId.slice(-8).toUpperCase()}</span>
+                    <span className="receipt-id" style={{ color: '#d4af37', fontWeight: '700' }}>REF: {successData.bookingRef}</span>
                   </div>
                   
                   <div className="receipt-row">
@@ -129,6 +132,10 @@ const Booking = () => {
                   <div className="receipt-row">
                     <span className="receipt-label">Email Address</span>
                     <span className="receipt-value">{successData.email}</span>
+                  </div>
+                  <div className="receipt-row">
+                    <span className="receipt-label">Boarding / Pickup</span>
+                    <span className="receipt-value">{successData.pickupPoint || 'Bangalore City Hub'}</span>
                   </div>
                   <div className="receipt-row">
                     <span className="receipt-label">Sanctuary</span>
@@ -254,6 +261,18 @@ const Booking = () => {
                           required
                         />
                       </div>
+                    </div>
+
+                    <div>
+                      <label className="booking-label">Preferred Boarding / Departure Hub</label>
+                      <input 
+                        type="text" 
+                        name="pickupPoint"
+                        placeholder="e.g. Bangalore Silk Board, Kempegowda Intl Airport, Chennai Central"
+                        value={formData.pickupPoint}
+                        onChange={handleChange}
+                        className="booking-input"
+                      />
                     </div>
 
                     <div>

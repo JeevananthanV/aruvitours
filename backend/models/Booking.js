@@ -36,6 +36,24 @@ const bookingSchema = new mongoose.Schema({
     type: String,
     trim: true
   },
+  bookingRef: {
+    type: String,
+    trim: true,
+    uppercase: true
+  },
+  pickupPoint: {
+    type: String,
+    default: 'Chennai Central / Koyambedu'
+  },
+  paymentStatus: {
+    type: String,
+    enum: ['Unpaid', 'Advance Paid', 'Fully Paid'],
+    default: 'Advance Paid'
+  },
+  tourOperation: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'TourOperation'
+  },
   status: {
     type: String,
     enum: ['Pending', 'Confirmed', 'Cancelled'],

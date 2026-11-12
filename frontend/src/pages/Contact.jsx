@@ -1,9 +1,56 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Layout from '../components/layout/Layout';
 import ScrollReveal from '../components/common/ScrollReveal';
+import { contactService } from '../services/api';
 import './Contact.css';
 
 const Contact = () => {
+  const [formData, setFormData] = useState({
+    name: '',
+    email: '',
+    phone: '',
+    message: '',
+    subject: 'Bespoke Tour Inquiry',
+  });
+  const [submitting, setSubmitting] = useState(false);
+  const [statusMessage, setStatusMessage] = useState(null);
+  const [errorMessage, setErrorMessage] = useState(null);
+
+  const handleChange = (e) => {
+    const { name, value } = e.target;
+    setFormData((prev) => ({ ...prev, [name]: value }));
+  };
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    setSubmitting(true);
+    setStatusMessage(null);
+    setErrorMessage(null);
+
+    try {
+      const response = await contactService.submit(formData);
+      if (response.success) {
+        setStatusMessage('Your inquiry has been received by our concierge desk. We will reach out within 2 business hours.');
+        setFormData({
+          name: '',
+          email: '',
+          phone: '',
+          message: '',
+          subject: 'Bespoke Tour Inquiry',
+        });
+      } else {
+        setErrorMessage(response.error || 'Failed to submit inquiry.');
+      }
+    } catch (err) {
+      setErrorMessage(
+        err.response?.data?.error ||
+        'Could not submit inquiry right now. Please verify your connection or try again.'
+      );
+    } finally {
+      setSubmitting(false);
+    }
+  };
+
   return (
     <Layout>
       <div className="contact-page-wrapper">
@@ -18,29 +65,88 @@ const Contact = () => {
             {/* Form Column */}
             <div className="contact-form-column">
               <ScrollReveal direction="left" delay={0.2}>
-                <form className="contact-form-card">
+                <form className="contact-form-card" onSubmit={handleSubmit}>
+                  {statusMessage && (
+                    <div style={{
+                      padding: '12px 16px',
+                      background: 'rgba(16, 185, 129, 0.15)',
+                      border: '1px solid rgba(16, 185, 129, 0.4)',
+                      borderRadius: '8px',
+                      color: '#34d399',
+                      fontSize: '0.9rem',
+                      marginBottom: '1rem'
+                    }}>
+                      {statusMessage}
+                    </div>
+                  )}
+
+                  {errorMessage && (
+                    <div style={{
+                      padding: '12px 16px',
+                      background: 'rgba(239, 68, 68, 0.15)',
+                      border: '1px solid rgba(239, 68, 68, 0.4)',
+                      borderRadius: '8px',
+                      color: '#f87171',
+                      fontSize: '0.9rem',
+                      marginBottom: '1rem'
+                    }}>
+                      {errorMessage}
+                    </div>
+                  )}
+
                   <div className="form-group">
                     <label className="contact-label">Full Name</label>
-                    <input type="text" placeholder="John Doe" className="contact-input" required />
+                    <input 
+                      type="text" 
+                      name="name"
+                      value={formData.name}
+                      onChange={handleChange}
+                      placeholder="John Doe" 
+                      className="contact-input" 
+                      required 
+                    />
                   </div>
                   
                   <div className="form-group">
                     <label className="contact-label">Email Address</label>
-                    <input type="email" placeholder="john@example.com" className="contact-input" required />
+                    <input 
+                      type="email" 
+                      name="email"
+                      value={formData.email}
+                      onChange={handleChange}
+                      placeholder="john@example.com" 
+                      className="contact-input" 
+                      required 
+                    />
                   </div>
 
                   <div className="form-group">
                     <label className="contact-label">Phone Number</label>
-                    <input type="tel" placeholder="+91 98765 43210" className="contact-input" />
+                    <input 
+                      type="tel" 
+                      name="phone"
+                      value={formData.phone}
+                      onChange={handleChange}
+                      placeholder="+91 98765 43210" 
+                      className="contact-input" 
+                    />
                   </div>
                   
                   <div className="form-group">
                     <label className="contact-label">Your Sanctuary Request</label>
-                    <textarea placeholder="Tell us about your dream destination, dates, and package preferences..." rows="5" className="contact-textarea" required></textarea>
+                    <textarea 
+                      name="message"
+                      value={formData.message}
+                      onChange={handleChange}
+                      placeholder="Tell us about your dream destination, dates, and package preferences..." 
+                      rows="5" 
+                      className="contact-textarea" 
+                      required
+                    ></textarea>
                   </div>
                   
-                  <button type="submit" className="submit-btn-premium">
-                    Send Inquiry
+                  <button type="submit" className="submit-btn-premium" disabled={submitting}>
+                    {submitting ? 'Transmitting Request...' : 'Send Inquiry'}
                   </button>
                 </form>
               </ScrollReveal>

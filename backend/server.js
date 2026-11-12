@@ -1,9 +1,10 @@
 const express = require('express');
 const cors = require('cors');
 const dotenv = require('dotenv');
-const connectDB = require('./config/db');
-
 const path = require('path');
+const connectDB = require('./config/db');
+const { handleSSEConnection } = require('./utils/realtimeHub');
+
 // Load environment variables
 dotenv.config({ path: path.join(__dirname, '.env') });
 
@@ -16,16 +17,36 @@ const app = express();
 app.use(express.json());
 
 // Enable CORS
+const allowedOrigins = [
+  process.env.CLIENT_ORIGIN || 'http://localhost:5173',
+  'http://localhost:5173',
+  'http://127.0.0.1:5173',
+  'http://localhost:3000',
+  'http://localhost:5174',
+  'http://localhost:5175',
+  'http://localhost:5176'
+];
+
 app.use(cors({
-  origin: process.env.CLIENT_ORIGIN || 'http://localhost:5173', // Vite default port is 5173
+  origin: (origin, callback) => {
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(null, true); // Allow dev environments
+    }
+  },
   credentials: true
 }));
+
+// Real-Time Server-Sent Events (SSE) Stream
+app.get('/api/realtime', handleSSEConnection);
 
 // Simple Health Check API
 app.get('/api/health', (req, res) => {
   res.status(200).json({
     status: 'success',
-    message: 'Backend server is running smoothly',
+    service: 'Aruvi Tours Enterprise API',
+    version: '2.0.0',
     timestamp: new Date()
   });
 });
@@ -36,6 +57,8 @@ const bookingRoutes = require('./routes/bookingRoutes');
 const contactRoutes = require('./routes/contactRoutes');
 const departureRoutes = require('./routes/departureRoutes');
 const authRoutes = require('./routes/authRoutes');
+const operationRoutes = require('./routes/operationRoutes');
+const adminRoutes = require('./routes/adminRoutes');
 
 // Mount routes
 app.use('/api/packages', packageRoutes);
@@ -43,7 +66,8 @@ app.use('/api/bookings', bookingRoutes);
 app.use('/api/contacts', contactRoutes);
 app.use('/api/departures', departureRoutes);
 app.use('/api/auth', authRoutes);
-
+app.use('/api/operations', operationRoutes);
+app.use('/api/admin', adminRoutes);
 
 // Error Handling Middleware
 app.use((err, req, res, next) => {
@@ -54,15 +78,19 @@ app.use((err, req, res, next) => {
   });
 });
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5001;
 
 const server = app.listen(PORT, () => {
-  console.log(`Server running in ${process.env.NODE_ENV || 'development'} mode on port ${PORT}`);
+  console.log(`\n============================================================`);
+  console.log(`🚀 Aruvi Tours Backend Server running on port ${PORT}`);
+  console.log(`   Health Check: GET http://localhost:${PORT}/api/health`);
+  console.log(`   SSE Stream  : GET http://localhost:${PORT}/api/realtime`);
+  console.log(`   Operations  : GET http://localhost:${PORT}/api/operations`);
+  console.log(`   Admin Stats : GET http://localhost:${PORT}/api/admin/stats`);
+  console.log(`============================================================\n`);
 });
 
 // Handle unhandled promise rejections
 process.on('unhandledRejection', (err, promise) => {
-  console.log(`Error: ${err.message}`);
-  // Close server & exit process
-  server.close(() => process.exit(1));
+  console.log(`Unhandled Rejection Error: ${err.message}`);
 });

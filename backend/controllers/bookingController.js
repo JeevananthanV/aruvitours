@@ -1,5 +1,6 @@
 const Booking = require('../models/Booking');
 const Package = require('../models/Package');
+const { broadcastBooking, broadcastBookingStatus } = require('../utils/realtimeHub');
 
 // @desc    Create new booking
 // @route   POST /api/bookings
@@ -24,15 +25,23 @@ exports.createBooking = async (req, res, next) => {
       });
     }
 
+    const bookingRef = `AT-2027-${Math.floor(1000 + Math.random() * 9000)}`;
+
     const booking = await Booking.create({
       package: resolvedPackageId,
+      bookingRef,
       ...bookingData
     });
+
+    const populatedBooking = await Booking.findById(booking._id).populate('package');
+
+    // Real-time broadcast
+    broadcastBooking(populatedBooking);
 
     res.status(201).json({
       success: true,
       message: 'Booking request confirmed successfully!',
-      data: booking
+      data: populatedBooking
     });
   } catch (error) {
     next(error);
@@ -44,7 +53,7 @@ exports.createBooking = async (req, res, next) => {
 // @access  Private/Admin
 exports.getBookings = async (req, res, next) => {
   try {
-    const bookings = await Booking.find().populate('package');
+    const bookings = await Booking.find().populate('package').sort({ createdAt: -1 });
     res.status(200).json({
       success: true,
       count: bookings.length,
@@ -81,6 +90,9 @@ exports.updateBookingStatus = async (req, res, next) => {
         error: 'Booking not found'
       });
     }
+
+    // Real-time broadcast
+    broadcastBookingStatus(booking);
 
     res.status(200).json({
       success: true,
