@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 100" fill="none">
+  <defs>
+    <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b28d26" />
+      <stop offset="30%" stop-color="#d4af37" />
+      <stop offset="70%" stop-color="#f9f5e8" />
+      <stop offset="100%" stop-color="#b28d26" />
+    </linearGradient>
+  </defs>
+  
+  <!-- A Symbol Group shifted to left -->
+  <g transform="translate(10, 10) scale(0.8)">
+    <path d="M48 10 L15 88 L26 88 L48 34 L70 88 L81 88 L52 10 Z" fill="url(#gold-grad)" />
+    <path d="M5 64 C 35 34, 65 34, 95 64 C 65 52, 35 52, 5 64 Z" fill="url(#gold-grad)" />
+    <path d="M50 0 L52 6 L58 8 L52 10 L50 16 L48 10 L42 8 L48 6 Z" fill="url(#gold-grad)" />
+  </g>
+  
+  <!-- ARUVI Wordmark (Charcoal) -->
+  <text x="110" y="62" font-family="'Cinzel', 'Playfair Display', serif" font-size="44" font-weight="500" fill="#121212" letter-spacing="0.1em">ARUVI</text>
+  
+  <!-- TOURS Wordmark (Gold) -->
+  <text x="295" y="62" font-family="'Cinzel', 'Montserrat', sans-serif" font-size="44" font-weight="500" fill="url(#gold-grad)" letter-spacing="0.1em">TOURS</text>
+</svg>

@@ -1,0 +1,247 @@
+.fixed-departures-wrapper {
+  background-color: #0a0a0a;
+  min-height: 100vh;
+  padding: 5rem 0;
+  color: #ffffff;
+}
+
+.departures-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.departures-intro {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 4rem auto;
+}
+
+.departures-desc {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #cccccc;
+  font-weight: 300;
+}
+
+.light-section .departures-desc {
+  color: #2c2c2c;
+}
+
+.departures-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2.5rem;
+}
+
+.departure-card {
+  background: #111111;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 4px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+  position: relative;
+}
+
+.departure-card:hover {
+  transform: translateY(-8px);
+  border-color: rgba(214, 175, 55, 0.3);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.6);
+}
+
+.departure-img-wrapper {
+  position: relative;
+  height: 250px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.departure-img-wrapper img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.departure-card:hover .departure-img-wrapper img {
+  transform: scale(1.05);
+}
+
+.departure-img-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(17, 17, 17, 1) 100%);
+}
+
+.slots-badge {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.25rem;
+  background: #c0392b;
+  color: #ffffff;
+  padding: 0.4rem 0.8rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-radius: 2px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  z-index: 2;
+}
+
+.slots-badge.limited {
+  background: #d4af37;
+  color: #121212;
+}
+
+.departure-info {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.departure-date-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #d4af37;
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-bottom: 0.75rem;
+}
+
+.departure-date-icon {
+  width: 14px;
+  height: 14px;
+}
+
+.departure-title {
+  font-family: 'Cinzel', serif;
+  font-size: 1.45rem;
+  font-weight: 500;
+  margin: 0 0 1rem 0;
+  color: #ffffff;
+}
+
+.departure-meta {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 1.25rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  padding-bottom: 1rem;
+}
+
+.departure-meta-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.dep-meta-label {
+  font-size: 0.75rem;
+  color: #777777;
+  text-transform: uppercase;
+  margin-bottom: 0.2rem;
+}
+
+.dep-meta-val {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #eeeeee;
+}
+
+.departure-highlights-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.75rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.dep-highlight-item {
+  font-size: 0.9rem;
+  color: #aaaaaa;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.dep-highlight-dot {
+  width: 5px;
+  height: 5px;
+  background-color: #d4af37;
+  border-radius: 50%;
+}
+
+.departure-footer {
+  margin-top: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.departure-price {
+  display: flex;
+  flex-direction: column;
+}
+
+.dep-price-val {
+  color: #d4af37;
+  font-size: 1.6rem;
+  font-weight: 700;
+  font-family: 'Cinzel', serif;
+  line-height: 1.2;
+}
+
+.join-btn {
+  background: transparent;
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 0.75rem 1.5rem;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+
+.join-btn:hover {
+  background: #d4af37;
+  color: #121212;
+  border-color: #d4af37;
+  box-shadow: 0 4px 12px rgba(212, 175, 55, 0.25);
+}
+
+@media (max-width: 991px) {
+  .departures-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .fixed-departures-wrapper {
+    padding: 3rem 0;
+  }
+  .departures-container {
+    padding: 0 1.5rem;
+  }
+  .departure-info {
+    padding: 1.5rem;
+  }
+  .departure-title {
+    font-size: 1.25rem;
+  }
+}

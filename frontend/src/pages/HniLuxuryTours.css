@@ -1,0 +1,315 @@
+.luxury-tours-wrapper {
+  background-color: #050505;
+  min-height: 100vh;
+  padding: 5rem 0;
+  color: #ffffff;
+}
+
+.luxury-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.luxury-hero-section {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 5rem auto;
+}
+
+.luxury-subtitle {
+  color: #d4af37;
+  letter-spacing: 0.35em;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  font-weight: 600;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.luxury-title {
+  font-family: 'Cinzel', serif;
+  font-size: 3rem;
+  font-weight: 400;
+  margin: 0.5rem 0 1.5rem 0;
+  background: linear-gradient(135deg, #ffffff 30%, #d4af37 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 0.05em;
+  line-height: 1.3;
+  padding-bottom: 0.15em;
+  display: block;
+}
+
+.luxury-intro-desc {
+  font-size: 1.15rem;
+  line-height: 1.9;
+  color: #bbbbbb;
+  font-weight: 300;
+  margin-bottom: 2rem;
+}
+
+.luxury-gold-divider {
+  width: 80px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #d4af37, transparent);
+  margin: 2rem auto;
+}
+
+/* Service Pillars Grid */
+.luxury-pillars-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 6rem;
+}
+
+.luxury-pillar-card {
+  background: #0d0d0d;
+  border: 1px solid rgba(212, 175, 55, 0.08);
+  padding: 2.5rem 1.5rem;
+  text-align: center;
+  border-radius: 4px;
+  transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.luxury-pillar-card:hover {
+  transform: translateY(-8px);
+  border-color: rgba(214, 175, 55, 0.4);
+  box-shadow: 0 10px 30px rgba(214, 175, 55, 0.05);
+}
+
+.pillar-icon-wrapper {
+  width: 60px;
+  height: 60px;
+  background: rgba(214, 175, 55, 0.05);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1.5rem auto;
+  color: #d4af37;
+  border: 1px solid rgba(214, 175, 55, 0.15);
+  transition: all 0.3s ease;
+}
+
+.luxury-pillar-card:hover .pillar-icon-wrapper {
+  background: #d4af37;
+  color: #0a0a0a;
+}
+
+.pillar-icon {
+  width: 28px;
+  height: 28px;
+}
+
+.pillar-title {
+  font-family: 'Cinzel', serif;
+  font-size: 1.15rem;
+  font-weight: 500;
+  margin: 0 0 0.75rem 0;
+  color: #ffffff;
+}
+
+.pillar-desc {
+  font-size: 0.85rem;
+  color: #888888;
+  line-height: 1.6;
+  font-weight: 300;
+}
+
+/* Showcase Experiences */
+.showcase-heading {
+  font-family: 'Cinzel', serif;
+  font-size: 2rem;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 3.5rem;
+  letter-spacing: 0.05em;
+}
+
+.showcase-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-bottom: 6rem;
+}
+
+.showcase-card {
+  background: #0d0d0d;
+  border: 1px solid rgba(255, 255, 255, 0.03);
+  border-radius: 4px;
+  overflow: hidden;
+  position: relative;
+}
+
+.showcase-img-wrapper {
+  height: 240px;
+  overflow: hidden;
+  position: relative;
+}
+
+.showcase-img-wrapper img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s ease;
+}
+
+.showcase-card:hover .showcase-img-wrapper img {
+  transform: scale(1.05);
+}
+
+.showcase-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, transparent, rgba(13, 13, 13, 0.95));
+}
+
+.showcase-tag {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background: rgba(10, 10, 10, 0.8);
+  border: 1px solid #d4af37;
+  color: #d4af37;
+  padding: 0.3rem 0.75rem;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  border-radius: 2px;
+}
+
+.showcase-info {
+  padding: 2rem;
+}
+
+.showcase-title {
+  font-family: 'Cinzel', serif;
+  font-size: 1.3rem;
+  font-weight: 500;
+  margin: 0 0 0.75rem 0;
+}
+
+.showcase-desc {
+  font-size: 0.9rem;
+  color: #aaaaaa;
+  line-height: 1.6;
+  font-weight: 300;
+  margin-bottom: 1.5rem;
+}
+
+.showcase-perk-badge {
+  display: inline-block;
+  background: rgba(214, 175, 55, 0.08);
+  color: #d4af37;
+  font-size: 0.75rem;
+  font-weight: 500;
+  padding: 0.4rem 0.8rem;
+  border-radius: 2px;
+  border: 1px solid rgba(214, 175, 55, 0.15);
+}
+
+/* Premium Inquiry Box */
+.luxury-inquiry-box {
+  background: linear-gradient(145deg, #0d0d0d 0%, #151515 100%);
+  border: 1px solid rgba(214, 175, 55, 0.2);
+  border-radius: 4px;
+  padding: 4rem 3rem;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
+}
+
+.inquiry-box-title {
+  font-family: 'Cinzel', serif;
+  font-size: 1.8rem;
+  font-weight: 400;
+  margin-bottom: 1rem;
+}
+
+.inquiry-box-desc {
+  color: #888888;
+  font-size: 0.95rem;
+  margin-bottom: 2.5rem;
+  line-height: 1.6;
+  font-weight: 300;
+}
+
+.luxury-connect-btn {
+  display: inline-block;
+  background: #d4af37;
+  color: #050505;
+  border: 1px solid #d4af37;
+  padding: 1.1rem 3rem;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 2px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 20px rgba(214, 175, 55, 0.2);
+}
+
+.luxury-connect-btn:hover {
+  background: transparent;
+  color: #d4af37;
+  box-shadow: 0 4px 30px rgba(214, 175, 55, 0.45);
+}
+
+@media (max-width: 1024px) {
+  .luxury-pillars-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+  .showcase-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .luxury-title {
+    font-size: 2.4rem;
+  }
+  .showcase-grid {
+    grid-template-columns: 1fr;
+  }
+  .luxury-inquiry-box {
+    padding: 3rem 2rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .luxury-pillars-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  .luxury-title {
+    font-size: 1.9rem;
+  }
+}
+
+/* Light Section overrides for Luxury Tours page */
+.light-section .luxury-title {
+  background: linear-gradient(135deg, #121212 30%, #a8801d 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.light-section .luxury-intro-desc {
+  color: #2c2c2c;
+}
+
+.light-section .showcase-heading {
+  color: #121212;
+}
+
+.light-section .luxury-gold-divider {
+  background: linear-gradient(90deg, transparent, #a8801d, transparent);
+}

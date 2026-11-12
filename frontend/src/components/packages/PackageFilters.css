@@ -1,0 +1,52 @@
+.package-filters-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3rem;
+}
+
+.filter-tabs {
+  display: inline-flex;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(212, 175, 55, 0.1);
+  padding: 6px;
+  border-radius: 4px;
+  backdrop-filter: blur(10px);
+}
+
+.filter-tab-btn {
+  background: transparent;
+  border: none;
+  color: #a0a0a0;
+  padding: 10px 24px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  border-radius: 2px;
+}
+
+.filter-tab-btn:hover {
+  color: #ffffff;
+}
+
+.filter-tab-btn.active {
+  background: #d4af37;
+  color: #121212;
+  box-shadow: 0 4px 15px rgba(212, 175, 55, 0.2);
+}
+
+@media (max-width: 600px) {
+  .filter-tabs {
+    width: 100%;
+    display: flex;
+  }
+  
+  .filter-tab-btn {
+    flex: 1;
+    padding: 8px 12px;
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+  }
+}

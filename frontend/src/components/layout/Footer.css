@@ -1,0 +1,150 @@
+.footer {
+  background: #050505;
+  border-top: 1px solid rgba(212, 175, 55, 0.15);
+  color: #a0a0a0;
+  padding: 5rem 0 2rem 0;
+  font-size: 0.9rem;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: 4rem;
+  margin-bottom: 4rem;
+}
+
+.footer-logo {
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Cinzel', serif;
+  font-size: 1.8rem;
+  letter-spacing: 0.1em;
+  display: inline-block;
+  margin-bottom: 1.5rem;
+}
+
+.footer-logo span {
+  color: #d4af37;
+}
+
+.footer-about-text {
+  line-height: 1.8;
+}
+
+.footer-title {
+  color: #ffffff;
+  font-family: 'Cinzel', serif;
+  font-size: 1.1rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin: 0 0 1.5rem 0;
+  position: relative;
+}
+
+.footer-title::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  width: 30px;
+  height: 1px;
+  background: #d4af37;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links li {
+  margin-bottom: 0.75rem;
+}
+
+.footer-links a {
+  color: #a0a0a0;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: #d4af37;
+  padding-left: 5px;
+}
+
+.footer-contact-info {
+  margin: 0 0 1rem 0;
+  line-height: 1.6;
+}
+
+.footer-contact-info strong {
+  color: #ffffff;
+}
+
+.footer-bottom {
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  padding-top: 2rem;
+  text-align: center;
+  font-size: 0.8rem;
+  color: #666;
+}
+
+@media (max-width: 768px) {
+  .footer-grid {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+  
+  .footer {
+    padding: 3rem 0 1.5rem 0;
+  }
+}
+
+/* Footer Socials */
+.footer-socials {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.social-icon-link {
+  color: #a0a0a0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.10);
+  transition: all 0.3s ease;
+}
+
+.social-icon-link svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+}
+
+.social-icon-link:hover {
+  color: #d4af37;
+  border-color: #d4af37;
+  transform: translateY(-3px);
+  box-shadow: 0 4px 10px rgba(212, 175, 55, 0.15);
+}
+
+/* Interactive Contact Links */
+.footer-contact-link {
+  color: #a0a0a0;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-contact-link:hover {
+  color: #d4af37;
+}

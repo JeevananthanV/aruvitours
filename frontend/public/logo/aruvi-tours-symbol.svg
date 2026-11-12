@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b28d26" />
+      <stop offset="30%" stop-color="#d4af37" />
+      <stop offset="70%" stop-color="#f9f5e8" />
+      <stop offset="100%" stop-color="#b28d26" />
+    </linearGradient>
+  </defs>
+  <!-- Elegant geometric A frame -->
+  <path d="M48 10 L15 88 L26 88 L48 34 L70 88 L81 88 L52 10 Z" fill="url(#gold-grad)" />
+  <!-- Elegant flight path/horizon curve -->
+  <path d="M5 64 C 35 34, 65 34, 95 64 C 65 52, 35 52, 5 64 Z" fill="url(#gold-grad)" />
+  <!-- Small star representing luxury guide & destination -->
+  <path d="M50 0 L52 6 L58 8 L52 10 L50 16 L48 10 L42 8 L48 6 Z" fill="url(#gold-grad)" />
+</svg>
