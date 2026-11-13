@@ -126,3 +126,4 @@ The production bundle will be generated in `frontend/dist/`.
   Change `PORT` in `backend/.env` or run frontend with `npm run dev -- --port <port>`.
 - **CORS Error**:
   Verify `CLIENT_URL` in `backend/.env` matches your exact frontend host (including protocol and port).
+
