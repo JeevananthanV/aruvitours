@@ -58,3 +58,4 @@ module.exports = {
   broadcastMilestone: (payload) => broadcastEvent('OPERATION_MILESTONE_ADDED', payload),
   broadcastInquiry: (contact) => broadcastEvent('NEW_CONTACT_INQUIRY', contact)
 };
+

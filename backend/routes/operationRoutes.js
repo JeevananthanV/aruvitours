@@ -26,3 +26,4 @@ router.put('/:id/passengers/:passengerIndex/checkin', protect, updatePassengerCh
 router.post('/:id/assign-booking', protect, assignBookingToOperation);
 
 module.exports = router;
+
